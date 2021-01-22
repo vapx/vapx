@@ -13,7 +13,7 @@ I'm Edmon Garcia. Aspiring Full-Stack Engineer and Tech Entrepreneur
 <br>
 Programming Languages : HTML, CSS/SCSS, JS, ReactJS, NodeJS and Python.
 <br>
-Tools: Git, VS Code and GitHub.
+Tools: Git, VS Code ,npm , yarn and GitHub
 <br>
 UI Tools/Design: React-Bootstrap, React material-ui and Styled Components.
 
