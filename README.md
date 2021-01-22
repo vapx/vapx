@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Designing web pages
 - 💬 Ask me about all things React Hooks
 - 📫 How to reach me: send me an email at g.edmon25@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I am an Entrepreneurship Major but love to use technology.
+[<img align=”left” alt=”devopsbyte.com” width=”22px” src=”https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
 ###
