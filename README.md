@@ -10,10 +10,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about all things React Hooks
 - 📫 How to reach me: send me an email at g.edmon25@gmail.com
 - ⚡ Fun fact: I am an Entrepreneurship Major but love to use technology.
--Programming Languages : HTML,CSS,JS,ReactJS,NodeJS and Python.
--Tools: Git,VS Code,GitHub.
--UI Tools/Design: React-Bootstrap, React material-ui and Styled Components.
-##
+<br>
+Programming Languages : HTML,CSS,JS,ReactJS,NodeJS and Python.
+<br>
+Tools: Git,VS Code,GitHub.
+<br>
+UI Tools/Design: React-Bootstrap, React material-ui and Styled Components.
+
 
 
 
