@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am an Entrepreneurship Major but love to use technology.
 ##
 
-#Programming Languages : HTML,CSS,JS,ReactJS,NodeJS and Python.
-#Tools: Git,VS Code,GitHub.
-#UI Tools/Design: React-Bootstrap, React material-ui and Styled Components.
+-Programming Languages : HTML,CSS,JS,ReactJS,NodeJS and Python.
+-Tools: Git,VS Code,GitHub.
+-UI Tools/Design: React-Bootstrap, React material-ui and Styled Components.
 
