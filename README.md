@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+I'm Edmon Garcia. Aspiring Full-Stack Engineer and Tech Entrepreneur
 
 - 🔭 I’m currently working on MovieListProject but currently intern at Healthcare Startup
 - 🌱 I’m currently learning using libraries for API Calling such as react-query and GraphQL
