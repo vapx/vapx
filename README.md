@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+###
 **vapx/vapx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: send me an email at g.edmon25@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am an Entrepreneurship Major but love to use technology.
--->
+###
