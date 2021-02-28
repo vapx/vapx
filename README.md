@@ -4,7 +4,7 @@
 I'm Edmon Garcia. Aspiring Full-Stack Engineer and Tech Entrepreneur
 
 - 🔭 I’m currently working as an intern at Healthcare Startup
-- 🌱 I’m currently learning Nodejs and HTTP Protocols
+- 🌱 I’m currently exploring Nodejs and API integration
 - 👯 I’m looking to collaborate on Front-End Development 
 - 🤔 I’m looking for help with UX/UI Design kinda suck on it.
 - 💬 Ask me about all things React Hooks
