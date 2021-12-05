@@ -3,7 +3,7 @@
 
 I'm Edmon Garcia. Aspiring Full-Stack Engineer and Tech Entrepreneur
 
-- 🔭 Front-End Developer at SwQuity.io
+- 🔭 Front-End Developer at Yaka.ph
 - 🌱 I’m currently exploring Nodejs, ExpressJS and API integration
 - 👯 I’m looking to collaborate on Front-End Development 
 - 🤔 I’m looking for help with UX/UI Design kinda suck on it.
